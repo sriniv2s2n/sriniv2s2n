@@ -2,9 +2,9 @@
 
 #### About Me
 - 👨‍💻 **Front-End Developer** using **_React.js_**, **_Vue.js_** and **_Angular_**
-- 🔭 Currently working on **<a href="https://incandescent-trifle-ead381.netlify.app/" target="_blank">Form Builder App</a>**
+- 🔭 Currently working on **<a href="https://incandescent-trifle-ead381.netlify.app/" target="_blank">Form Builder App 🚀</a>**
 
-## 🚀 Skills
+## ⚡ Skills
 
 ### Frameworks
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
@@ -26,8 +26,8 @@
 <a href="https://bitbucket.org/product/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
 
 ## 🕹️ Projects
- - **<a href="https://incandescent-trifle-ead381.netlify.app/" target="_blank">Form Builder App</a>**
+ - **<a href="https://incandescent-trifle-ead381.netlify.app/" target="_blank">Form Builder App 🚀</a>**
 
-## 📞 Connect with Me
+## Connect with Me
  <a href="mailto:sriniv2s2n@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/sriniv2s2n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
