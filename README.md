@@ -26,8 +26,8 @@
 <a href="https://bitbucket.org/product/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
 
 ## 🕹️ Projects
- - ** 🎯 <a href="https://incandescent-trifle-ead381.netlify.app/" target="_blank">Form Builder App 🚀</a>**
- - ** 🔮 <a href="https://splendid-gaufre-e61b01.netlify.app" target="_blank">Git Commit History App 🚀</a>**
+ - **<a href="https://incandescent-trifle-ead381.netlify.app/" target="_blank">🎯 Form Builder App</a>**
+ - **<a href="https://splendid-gaufre-e61b01.netlify.app" target="_blank">🔮 Git Commit History App</a>**
 
 ## Connect with Me
  <a href="mailto:sriniv2s2n@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
