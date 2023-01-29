@@ -27,6 +27,7 @@
 
 ## 🕹️ Projects
  - **<a href="https://incandescent-trifle-ead381.netlify.app/" target="_blank">Form Builder App 🚀</a>**
+ - **<a href="https://splendid-gaufre-e61b01.netlify.app" target="_blank">Git Commit History App 🚀</a>**
 
 ## Connect with Me
  <a href="mailto:sriniv2s2n@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
